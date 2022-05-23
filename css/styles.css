@@ -58,22 +58,25 @@ body nav li {
 }
 
 /* Section 2 */
+
 .tf_two{
-    padding: 10% 20%;
+    /*padding: 10% 20%;*/
+    height: 671px;
 }
 .tf_two h4 {
-    font-weight: bold;    
+    font-weight: bold;
+    font-size: 35px;
+    padding: 0 5rem;
 }
 .tf_two h1 {
     font-weight: bold;
     font-size: 70px;
-    padding-right: 5px;
+    padding: 8rem 5rem;
     line-height: 65px;
 }
 .tf_two p {
-    font-size: 23px;
-    line-height: 23px;
-    margin-top: 20px;
+    font-size: 32px;
+    margin: 8%;
 }
 .tf_two a {
     font-size: 25px;
